@@ -13,6 +13,8 @@ psycopg2 = "^2.9.3"
 psycopg2-binary = "^2.9.3"
 fastapi = "^0.73.0"
 uvicorn = "^0.17.5"
+alembic = "^1.7.6"
+python-decouple = "^3.6"
 
 [tool.poetry.dev-dependencies]
 
